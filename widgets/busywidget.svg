@@ -10,14 +10,62 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
-   height="130"
-   viewBox="0 0 130 130"
+   height="139.48671"
+   viewBox="0 0 297.52185 139.48671"
    version="1.0"
-   width="130"
-   inkscape:version="0.92.1 r"
+   width="297.52185"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="busywidget.svg">
   <defs
      id="defs36" />
+  <style
+     type="text/css"
+     id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+        stop-color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+        stop-color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+        stop-color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+        stop-color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+        stop-color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+        stop-color:#3daee9;
+      }
+      </style>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -27,18 +75,23 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1215"
-     inkscape:window-height="696"
+     inkscape:window-width="1620"
+     inkscape:window-height="1020"
      id="namedview34"
      showgrid="false"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="3.0260989"
-     inkscape:cx="83.532555"
-     inkscape:cy="52.347068"
+     inkscape:zoom="2.9831067"
+     inkscape:cx="158.48148"
+     inkscape:cy="69"
      inkscape:current-layer="svg2"
-     inkscape:window-x="487"
-     inkscape:window-y="209"
-     inkscape:window-maximized="0" />
+     inkscape:window-x="123"
+     inkscape:window-y="44"
+     inkscape:window-maximized="0"
+     inkscape:showpageshadow="false"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -47,29 +100,30 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      id="busywidget"
-     transform="translate(5.727539,-142.22985)"
-     style="stroke-width:6.54099989">
+     transform="translate(5.6072311,4.7208675)">
     <path
-       id="path4426"
-       style="fill:none;stroke:#54a9bd;stroke-width:14;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       id="INNER"
+       style="color:#31363b;fill:none;fill-opacity:1;stroke:currentColor;stroke-width:7.80982971;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.86086958"
+       class="ColorScheme-Text"
        sodipodi:type="arc"
-       sodipodi:cx="57.5"
-       sodipodi:cy="207.5"
-       sodipodi:rx="44.578999"
-       sodipodi:ry="44.578999"
-       sodipodi:start="0"
+       sodipodi:cx="64.861641"
+       sodipodi:cy="65.741508"
+       sodipodi:rx="54.540359"
+       sodipodi:ry="54.540359"
+       sodipodi:start="2.6989795"
        sodipodi:end="4.712389"
-       d="M 102.079,207.5 A 44.578999,44.578999 0 0 1 74.559644,248.68562 44.578999,44.578999 0 0 1 25.977888,239.02211 44.578999,44.578999 0 0 1 16.314376,190.44036 44.578999,44.578999 0 0 1 57.500001,162.921"
+       d="M 15.577034,89.101268 A 54.540359,54.540359 0 0 1 18.770967,36.581594 54.540359,54.540359 0 0 1 64.861642,11.201149"
        sodipodi:open="true" />
     <g
        id="g4424"
-       transform="translate(-4.5098,148.63)">
+       transform="translate(1.3829689,6.8923464)"
+       style="stroke-width:6.54099989">
       <rect
          id="rect4416"
          x="-1.9902"
@@ -82,5 +136,46 @@
          transform="matrix(0.079592,0,0,0.079592,9.2139,28.078)"
          style="stroke-width:82.18199921" />
     </g>
+    <circle
+       r="61.678532"
+       cy="65.765846"
+       cx="63.392769"
+       class="ColorScheme-Text"
+       style="color:#31363b;fill:none;fill-opacity:1;stroke:currentColor;stroke-width:3.59730315;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="OUTER" />
+  </g>
+  <g
+     id="paused"
+     transform="translate(3.7464957,3.4803772)">
+    <circle
+       class="ColorScheme-Text"
+       style="color:#31363b;fill:none;fill-opacity:1;stroke:currentColor;stroke-width:7.72024107;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.86086958"
+       id="path818"
+       cx="224.77534"
+       cy="65.519623"
+       r="53.914711" />
+    <g
+       style="stroke-width:6.54099989"
+       transform="translate(162.76554,6.6461229)"
+       id="g824">
+      <rect
+         style="fill:none"
+         y="-5.1265001"
+         width="128"
+         height="128"
+         x="-1.9902"
+         id="rect820" />
+      <g
+         style="stroke-width:82.18199921"
+         transform="matrix(0.079592,0,0,0.079592,9.2139,28.078)"
+         id="g822" />
+    </g>
+    <circle
+       id="circle826"
+       style="color:#31363b;fill:none;fill-opacity:1;stroke:currentColor;stroke-width:3.59730315;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       class="ColorScheme-Text"
+       cx="224.77534"
+       cy="65.519623"
+       r="61.678532" />
   </g>
 </svg>
