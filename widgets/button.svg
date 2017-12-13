@@ -31,8 +31,8 @@
      id="namedview4532"
      showgrid="false"
      inkscape:zoom="13.707676"
-     inkscape:cx="85.246465"
-     inkscape:cy="17.391408"
+     inkscape:cx="92.781954"
+     inkscape:cy="23.227554"
      inkscape:current-layer="svg2"
      inkscape:measure-start="0,0"
      inkscape:measure-end="0,0"
@@ -333,11 +333,11 @@
      width="24.000013"
      height="24.000013"
      class="ColorScheme-ViewFocus"
-     style="fill:#444444;fill-opacity:0.86238533;fill-rule:evenodd;stroke-width:2.00000119"
+     style="fill:#373737;fill-opacity:0.86238533;fill-rule:evenodd;stroke-width:2.00000119"
      transform="scale(-1)" />
   <rect
      transform="scale(-1)"
-     style="fill:#444444;fill-opacity:0.86238533;fill-rule:evenodd;stroke-width:0.70710719"
+     style="fill:#373737;fill-opacity:0.86238533;fill-rule:evenodd;stroke-width:0.70710719"
      class="ColorScheme-ViewFocus"
      height="24.000013"
      width="3.0000017"
@@ -351,11 +351,11 @@
      width="3.0000017"
      height="24.000013"
      class="ColorScheme-ViewFocus"
-     style="fill:#444444;fill-opacity:0.86238533;fill-rule:evenodd;stroke-width:0.70710719"
+     style="fill:#373737;fill-opacity:0.86238533;fill-rule:evenodd;stroke-width:0.70710719"
      transform="scale(-1)" />
   <rect
      transform="rotate(-90)"
-     style="fill:#444444;fill-opacity:0.86238533;fill-rule:evenodd;stroke-width:0.70710719"
+     style="fill:#373737;fill-opacity:0.86238533;fill-rule:evenodd;stroke-width:0.70710719"
      class="ColorScheme-ViewFocus"
      height="24.000013"
      width="3.0000017"
@@ -369,17 +369,17 @@
      x="-36.224648"
      width="3.0000017"
      height="24.000013"
-     style="fill:#444444;fill-opacity:0.86238533;fill-rule:evenodd;stroke-width:0.70710719"
+     style="fill:#373737;fill-opacity:0.86238533;fill-rule:evenodd;stroke-width:0.70710719"
      transform="rotate(-90)" />
   <g
      id="normal-topright"
      transform="matrix(1.5000004,0,0,1.5000009,-22.344422,0.20415859)"
-     style="fill:#444444;fill-opacity:0.86238533">
+     style="fill:#373737;fill-opacity:0.86238533">
     <path
        id="path922"
        transform="translate(0,-2.5122419e-5)"
        d="m 37.126953,4.0136719 v 2 h 2 v -1 h -1 v -1 z"
-       style="fill:#444444;fill-opacity:0.86238533;fill-rule:evenodd;stroke-width:0.16666678"
+       style="fill:#373737;fill-opacity:0.86238533;fill-rule:evenodd;stroke-width:0.16666678"
        class="ColorScheme-ViewFocus"
        inkscape:connector-curvature="0" />
     <path
@@ -393,23 +393,23 @@
        sodipodi:cx="38.126953"
        sodipodi:type="arc"
        id="path916"
-       style="opacity:1;fill:#444444;fill-opacity:0.86238533;fill-rule:nonzero;stroke:none;stroke-width:2.98988104;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#373737;fill-opacity:0.86238533;fill-rule:nonzero;stroke:none;stroke-width:2.98988104;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        class="ColorScheme-ViewFocus" />
   </g>
   <g
      transform="matrix(-1.5000004,0,0,1.5000009,65.036453,0.20415859)"
      id="normal-topleft"
-     style="fill:#444444;fill-opacity:0.86238533">
+     style="fill:#373737;fill-opacity:0.86238533">
     <path
        inkscape:connector-curvature="0"
        class="ColorScheme-ViewFocus"
-       style="fill:#444444;fill-opacity:0.86238533;fill-rule:evenodd;stroke-width:0.16666678"
+       style="fill:#373737;fill-opacity:0.86238533;fill-rule:evenodd;stroke-width:0.16666678"
        d="m 37.126953,4.0136719 v 2 h 2 v -1 h -1 v -1 z"
        transform="translate(0,-2.5122419e-5)"
        id="path911" />
     <path
        class="ColorScheme-ViewFocus"
-       style="opacity:1;fill:#444444;fill-opacity:0.86238533;fill-rule:nonzero;stroke:none;stroke-width:2.98988104;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#373737;fill-opacity:0.86238533;fill-rule:nonzero;stroke:none;stroke-width:2.98988104;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path913"
        sodipodi:type="arc"
        sodipodi:cx="38.126953"
@@ -424,17 +424,17 @@
   <g
      transform="matrix(1.5000004,0,0,-1.5000009,-22.344421,42.245123)"
      id="normal-bottomright"
-     style="fill:#444444;fill-opacity:0.86238533">
+     style="fill:#373737;fill-opacity:0.86238533">
     <path
        inkscape:connector-curvature="0"
        class="ColorScheme-ViewFocus"
-       style="fill:#444444;fill-opacity:0.86238533;fill-rule:evenodd;stroke-width:0.16666678"
+       style="fill:#373737;fill-opacity:0.86238533;fill-rule:evenodd;stroke-width:0.16666678"
        d="m 37.126953,4.0136719 v 2 h 2 v -1 h -1 v -1 z"
        transform="translate(0,-2.5122419e-5)"
        id="path917" />
     <path
        class="ColorScheme-ViewFocus"
-       style="opacity:1;fill:#444444;fill-opacity:0.86238533;fill-rule:nonzero;stroke:none;stroke-width:2.98988104;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#373737;fill-opacity:0.86238533;fill-rule:nonzero;stroke:none;stroke-width:2.98988104;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path919"
        sodipodi:type="arc"
        sodipodi:cx="38.126953"
@@ -449,17 +449,17 @@
   <g
      transform="matrix(-1.5000004,0,0,-1.5000009,65.036455,42.245123)"
      id="normal-bottomleft"
-     style="fill:#444444;fill-opacity:0.86238533">
+     style="fill:#373737;fill-opacity:0.86238533">
     <path
        inkscape:connector-curvature="0"
        class="ColorScheme-ViewFocus"
-       style="fill:#444444;fill-opacity:0.86238533;fill-rule:evenodd;stroke-width:0.16666678"
+       style="fill:#373737;fill-opacity:0.86238533;fill-rule:evenodd;stroke-width:0.16666678"
        d="m 37.126953,4.0136719 v 2 h 2 v -1 h -1 v -1 z"
        transform="translate(0,-2.5122419e-5)"
        id="path923" />
     <path
        class="ColorScheme-ViewFocus"
-       style="opacity:1;fill:#444444;fill-opacity:0.86238533;fill-rule:nonzero;stroke:none;stroke-width:2.98988104;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#373737;fill-opacity:0.86238533;fill-rule:nonzero;stroke:none;stroke-width:2.98988104;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path925"
        sodipodi:type="arc"
        sodipodi:cx="38.126953"
@@ -473,7 +473,7 @@
   </g>
   <rect
      transform="scale(-1)"
-     style="fill:#969696;fill-opacity:0.79816514;fill-rule:evenodd;stroke-width:2.00000119"
+     style="fill:#f0f0f0;fill-opacity:0.56422019;fill-rule:evenodd;stroke-width:2.00000119"
      class="ColorScheme-ViewFocus"
      height="24.000013"
      width="24.000013"
@@ -487,11 +487,11 @@
      width="1.0000006"
      height="24.000013"
      class="ColorScheme-ViewFocus"
-     style="fill:#969696;fill-opacity:0.79816514;fill-rule:evenodd;stroke-width:0.40824854"
+     style="fill:#f0f0f0;fill-opacity:0.79816514;fill-rule:evenodd;stroke-width:0.40824854"
      transform="scale(-1)" />
   <rect
      transform="scale(-1)"
-     style="fill:#969696;fill-opacity:0.79816514;fill-rule:evenodd;stroke-width:0.40824854"
+     style="fill:#f0f0f0;fill-opacity:0.79816514;fill-rule:evenodd;stroke-width:0.40824854"
      class="ColorScheme-ViewFocus"
      height="24.000013"
      width="1.0000006"
@@ -505,11 +505,11 @@
      width="1.0000006"
      height="24.000013"
      class="ColorScheme-ViewFocus"
-     style="fill:#969696;fill-opacity:0.79816514;fill-rule:evenodd;stroke-width:0.40824854"
+     style="fill:#f0f0f0;fill-opacity:0.79816514;fill-rule:evenodd;stroke-width:0.40824854"
      transform="rotate(-90)" />
   <rect
      transform="rotate(-90)"
-     style="fill:#969696;fill-opacity:0.79816514;fill-rule:evenodd;stroke-width:0.40824854"
+     style="fill:#f0f0f0;fill-opacity:0.79816514;fill-rule:evenodd;stroke-width:0.40824854"
      height="24.000013"
      width="1.0000006"
      x="-34.291451"
@@ -517,19 +517,19 @@
      class="ColorScheme-ViewFocus"
      id="hover-bottom" />
   <g
-     style="fill:#969696;fill-opacity:0.79816514"
+     style="fill:#f0f0f0;fill-opacity:0.79816514"
      transform="matrix(0.50000012,0,0,0.5000003,49.786358,6.2846066)"
      id="hover-topright">
     <path
        inkscape:connector-curvature="0"
        class="ColorScheme-ViewFocus"
-       style="fill:#969696;fill-opacity:0.79816514;fill-rule:evenodd;stroke-width:0.16666678"
+       style="fill:#f0f0f0;fill-opacity:0.79816514;fill-rule:evenodd;stroke-width:0.16666678"
        d="m 37.126953,4.0136719 v 2 h 2 v -1 h -1 v -1 z"
        transform="translate(0,-2.5122419e-5)"
        id="path1772" />
     <path
        class="ColorScheme-ViewFocus"
-       style="opacity:1;fill:#969696;fill-opacity:0.79816514;fill-rule:nonzero;stroke:none;stroke-width:2.98988104;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#f0f0f0;fill-opacity:0.79816514;fill-rule:nonzero;stroke:none;stroke-width:2.98988104;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path1774"
        sodipodi:type="arc"
        sodipodi:cx="38.126953"
@@ -542,14 +542,14 @@
        transform="scale(1,-1)" />
   </g>
   <g
-     style="fill:#969696;fill-opacity:0.79816514"
+     style="fill:#f0f0f0;fill-opacity:0.79816514"
      id="hover-topleft"
      transform="matrix(-0.50000012,0,0,0.5000003,62.913312,6.284612)">
     <path
        id="path1778"
        transform="translate(0,-2.5122419e-5)"
        d="m 37.126953,4.0136719 v 2 h 2 v -1 h -1 v -1 z"
-       style="fill:#969696;fill-opacity:0.79816514;fill-rule:evenodd;stroke-width:0.16666678"
+       style="fill:#f0f0f0;fill-opacity:0.79816514;fill-rule:evenodd;stroke-width:0.16666678"
        class="ColorScheme-ViewFocus"
        inkscape:connector-curvature="0" />
     <path
@@ -563,18 +563,18 @@
        sodipodi:cx="38.126953"
        sodipodi:type="arc"
        id="path1780"
-       style="opacity:1;fill:#969696;fill-opacity:0.79816514;fill-rule:nonzero;stroke:none;stroke-width:2.98988104;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#f0f0f0;fill-opacity:0.79816514;fill-rule:nonzero;stroke:none;stroke-width:2.98988104;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        class="ColorScheme-ViewFocus" />
   </g>
   <g
-     style="fill:#969696;fill-opacity:0.79816514"
+     style="fill:#f0f0f0;fill-opacity:0.79816514"
      id="hover-bottomright"
      transform="matrix(0.50000012,0,0,-0.5000003,49.786365,36.298276)">
     <path
        id="path1784"
        transform="translate(0,-2.5122419e-5)"
        d="m 37.126953,4.0136719 v 2 h 2 v -1 h -1 v -1 z"
-       style="fill:#969696;fill-opacity:0.79816514;fill-rule:evenodd;stroke-width:0.16666678"
+       style="fill:#f0f0f0;fill-opacity:0.79816514;fill-rule:evenodd;stroke-width:0.16666678"
        class="ColorScheme-ViewFocus"
        inkscape:connector-curvature="0" />
     <path
@@ -588,18 +588,18 @@
        sodipodi:cx="38.126953"
        sodipodi:type="arc"
        id="path1786"
-       style="opacity:1;fill:#969696;fill-opacity:0.79816514;fill-rule:nonzero;stroke:none;stroke-width:2.98988104;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#f0f0f0;fill-opacity:0.79816514;fill-rule:nonzero;stroke:none;stroke-width:2.98988104;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        class="ColorScheme-ViewFocus" />
   </g>
   <g
-     style="fill:#969696;fill-opacity:0.79816514"
+     style="fill:#f0f0f0;fill-opacity:0.79816514"
      id="hover-bottomleft"
      transform="matrix(-0.50000012,0,0,-0.5000003,62.913312,36.298276)">
     <path
        id="path1790"
        transform="translate(0,-2.5122419e-5)"
        d="m 37.126953,4.0136719 v 2 h 2 v -1 h -1 v -1 z"
-       style="fill:#969696;fill-opacity:0.79816514;fill-rule:evenodd;stroke-width:0.16666678"
+       style="fill:#f0f0f0;fill-opacity:0.79816514;fill-rule:evenodd;stroke-width:0.16666678"
        class="ColorScheme-ViewFocus"
        inkscape:connector-curvature="0" />
     <path
@@ -613,7 +613,7 @@
        sodipodi:cx="38.126953"
        sodipodi:type="arc"
        id="path1792"
-       style="opacity:1;fill:#969696;fill-opacity:0.79816514;fill-rule:nonzero;stroke:none;stroke-width:2.98988104;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#f0f0f0;fill-opacity:0.79816514;fill-rule:nonzero;stroke:none;stroke-width:2.98988104;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        class="ColorScheme-ViewFocus" />
   </g>
   <rect
@@ -623,11 +623,11 @@
      width="24.000013"
      height="24.000013"
      class="ColorScheme-ViewFocus"
-     style="fill:#a0a0a0;fill-opacity:0.7981652;fill-rule:evenodd;stroke-width:2.00000119"
+     style="fill:#888888;fill-opacity:0.90825689;fill-rule:evenodd;stroke-width:2.00000119"
      transform="scale(-1)" />
   <rect
      transform="scale(-1)"
-     style="fill:#a0a0a0;fill-opacity:0.7981652;fill-rule:evenodd;stroke-width:0.40824854"
+     style="fill:#888888;fill-opacity:0.90825689;fill-rule:evenodd;stroke-width:0.40824854"
      class="ColorScheme-ViewFocus"
      height="24.000013"
      width="1.0000006"
@@ -641,11 +641,11 @@
      width="1.0000006"
      height="24.000013"
      class="ColorScheme-ViewFocus"
-     style="fill:#a0a0a0;fill-opacity:0.7981652;fill-rule:evenodd;stroke-width:0.40824854"
+     style="fill:#888888;fill-opacity:0.90825689;fill-rule:evenodd;stroke-width:0.40824854"
      transform="scale(-1)" />
   <rect
      transform="rotate(-90)"
-     style="fill:#a0a0a0;fill-opacity:0.7981652;fill-rule:evenodd;stroke-width:0.40824854"
+     style="fill:#888888;fill-opacity:0.90825689;fill-rule:evenodd;stroke-width:0.40824854"
      class="ColorScheme-ViewFocus"
      height="24.000013"
      width="1.0000006"
@@ -659,17 +659,17 @@
      x="-34.291451"
      width="1.0000006"
      height="24.000013"
-     style="fill:#a0a0a0;fill-opacity:0.7981652;fill-rule:evenodd;stroke-width:0.40824854"
+     style="fill:#888888;fill-opacity:0.90825689;fill-rule:evenodd;stroke-width:0.40824854"
      transform="rotate(-90)" />
   <g
      id="pressed-topright"
      transform="matrix(0.50000012,0,0,0.5000003,89.786378,6.2846066)"
-     style="fill:#a0a0a0;fill-opacity:0.7981652">
+     style="fill:#888888;fill-opacity:0.90825689">
     <path
        id="path2014"
        transform="translate(0,-2.5122419e-5)"
        d="m 37.126953,4.0136719 v 2 h 2 v -1 h -1 v -1 z"
-       style="fill:#a0a0a0;fill-opacity:0.7981652;fill-rule:evenodd;stroke-width:0.16666678"
+       style="fill:#888888;fill-opacity:0.90825689;fill-rule:evenodd;stroke-width:0.16666678"
        class="ColorScheme-ViewFocus"
        inkscape:connector-curvature="0" />
     <path
@@ -683,23 +683,23 @@
        sodipodi:cx="38.126953"
        sodipodi:type="arc"
        id="path2016"
-       style="opacity:1;fill:#a0a0a0;fill-opacity:0.7981652;fill-rule:nonzero;stroke:none;stroke-width:2.98988104;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#888888;fill-opacity:0.90825689;fill-rule:nonzero;stroke:none;stroke-width:2.98988104;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        class="ColorScheme-ViewFocus" />
   </g>
   <g
      transform="matrix(-0.50000012,0,0,0.5000003,102.91333,6.284612)"
      id="pressed-topleft"
-     style="fill:#a0a0a0;fill-opacity:0.7981652">
+     style="fill:#888888;fill-opacity:0.90825689">
     <path
        inkscape:connector-curvature="0"
        class="ColorScheme-ViewFocus"
-       style="fill:#a0a0a0;fill-opacity:0.7981652;fill-rule:evenodd;stroke-width:0.16666678"
+       style="fill:#888888;fill-opacity:0.90825689;fill-rule:evenodd;stroke-width:0.16666678"
        d="m 37.126953,4.0136719 v 2 h 2 v -1 h -1 v -1 z"
        transform="translate(0,-2.5122419e-5)"
        id="path2020" />
     <path
        class="ColorScheme-ViewFocus"
-       style="opacity:1;fill:#a0a0a0;fill-opacity:0.7981652;fill-rule:nonzero;stroke:none;stroke-width:2.98988104;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#888888;fill-opacity:0.90825689;fill-rule:nonzero;stroke:none;stroke-width:2.98988104;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path2022"
        sodipodi:type="arc"
        sodipodi:cx="38.126953"
@@ -714,17 +714,17 @@
   <g
      transform="matrix(0.50000012,0,0,-0.5000003,89.786385,36.298276)"
      id="pressed-bottomright"
-     style="fill:#a0a0a0;fill-opacity:0.7981652">
+     style="fill:#888888;fill-opacity:0.90825689">
     <path
        inkscape:connector-curvature="0"
        class="ColorScheme-ViewFocus"
-       style="fill:#a0a0a0;fill-opacity:0.7981652;fill-rule:evenodd;stroke-width:0.16666678"
+       style="fill:#888888;fill-opacity:0.90825689;fill-rule:evenodd;stroke-width:0.16666678"
        d="m 37.126953,4.0136719 v 2 h 2 v -1 h -1 v -1 z"
        transform="translate(0,-2.5122419e-5)"
        id="path2026" />
     <path
        class="ColorScheme-ViewFocus"
-       style="opacity:1;fill:#a0a0a0;fill-opacity:0.7981652;fill-rule:nonzero;stroke:none;stroke-width:2.98988104;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#888888;fill-opacity:0.90825689;fill-rule:nonzero;stroke:none;stroke-width:2.98988104;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path2028"
        sodipodi:type="arc"
        sodipodi:cx="38.126953"
@@ -739,17 +739,17 @@
   <g
      transform="matrix(-0.50000012,0,0,-0.5000003,102.91333,36.298276)"
      id="pressed-bottomleft"
-     style="fill:#a0a0a0;fill-opacity:0.7981652">
+     style="fill:#888888;fill-opacity:0.90825689">
     <path
        inkscape:connector-curvature="0"
        class="ColorScheme-ViewFocus"
-       style="fill:#a0a0a0;fill-opacity:0.7981652;fill-rule:evenodd;stroke-width:0.16666678"
+       style="fill:#888888;fill-opacity:0.90825689;fill-rule:evenodd;stroke-width:0.16666678"
        d="m 37.126953,4.0136719 v 2 h 2 v -1 h -1 v -1 z"
        transform="translate(0,-2.5122419e-5)"
        id="path2032" />
     <path
        class="ColorScheme-ViewFocus"
-       style="opacity:1;fill:#a0a0a0;fill-opacity:0.7981652;fill-rule:nonzero;stroke:none;stroke-width:2.98988104;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#888888;fill-opacity:0.90825689;fill-rule:nonzero;stroke:none;stroke-width:2.98988104;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path2034"
        sodipodi:type="arc"
        sodipodi:cx="38.126953"
