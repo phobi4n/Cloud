@@ -14,9 +14,55 @@
    version="1.0"
    height="16"
    sodipodi:docname="checkmarks.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
   <defs
      id="defs24" />
+  <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+        stop-color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+        stop-color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+        stop-color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+        stop-color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+        stop-color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+        stop-color:#3daee9;
+      }
+      </style>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -32,7 +78,7 @@
      showgrid="false"
      inkscape:pagecheckerboard="true"
      inkscape:zoom="29.17154"
-     inkscape:cx="13.596798"
+     inkscape:cx="19.736041"
      inkscape:cy="8.260274"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -46,7 +92,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,10 +100,11 @@
      id="radiobutton"
      transform="translate(0,-64)">
     <path
-       style="fill:#f4f4f4"
+       style="fill:currentColor"
+        class="ColorScheme-Text"
        inkscape:connector-curvature="0"
        d="M 7.9981,75 A 3,3 0 0 1 5,71.999 3,3 0 0 1 8.0009,69 3,3 0 0 1 11,72 3,3 0 0 1 8,75 v -3 z"
-       id="path4178" />
+       id="polygon7" />
     <rect
        style="fill-opacity:0"
        x="0"
@@ -86,7 +133,8 @@
        y="64"
        id="rect4165" />
     <polygon
-       style="fill:#fdfdfd;fill-opacity:1"
+       style="fill:currentColor;fill-opacity:1"
+        class="ColorScheme-Text"
        transform="matrix(0.19663,0,0,0.19663,-1.8904,62.296)"
        points="23.6,57.2 42.5,71.4 77,32.7 71,27.3 41.5,60.6 28.4,50.8 "
        id="polygon8" />
