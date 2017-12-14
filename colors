@@ -6,9 +6,9 @@ DecorationHover=11,166,167
 ForegroundActive=255,0,0
 ForegroundInactive=156,181,182
 ForegroundLink=0,0,255
-ForegroundNegative=156,181,182
-ForegroundNeutral=156,181,182
-ForegroundNormal=242,242,242
+ForegroundNegative=226,44,44
+ForegroundNeutral=216,11,12
+ForegroundNormal=14,14,14
 ForegroundPositive=151,166,167
 ForegroundVisited=88,55,150
 

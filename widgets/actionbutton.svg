@@ -14,7 +14,7 @@
    version="1.0"
    height="98.81881"
    sodipodi:docname="actionbutton.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
   <defs
      id="defs36" />
   <sodipodi:namedview
@@ -26,15 +26,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="950"
-     inkscape:window-height="617"
+     inkscape:window-width="1259"
+     inkscape:window-height="717"
      id="namedview34"
      showgrid="false"
-     inkscape:zoom="1.9284197"
-     inkscape:cx="22.666481"
-     inkscape:cy="18.296951"
-     inkscape:window-x="358"
-     inkscape:window-y="332"
+     inkscape:zoom="4.1745904"
+     inkscape:cx="40.966186"
+     inkscape:cy="45.869362"
+     inkscape:window-x="347"
+     inkscape:window-y="241"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2"
      inkscape:pagecheckerboard="true"
@@ -51,32 +51,59 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <rect
-     style="opacity:1;fill:#060606;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.72143602;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.00869565"
+  <g
      id="normal"
-     width="28"
-     height="28"
-     x="10"
-     y="60.818813"
-     ry="0" />
-  <rect
-     ry="0"
-     y="10"
-     x="27.63102"
-     height="28"
-     width="28"
+     transform="translate(46.232081,-3.114078)">
+    <circle
+       r="12"
+       cy="77.548828"
+       cx="-18.015312"
+       id="circle822"
+       style="opacity:1;fill:#f2f2f2;fill-opacity:0.31304348;fill-rule:nonzero;stroke:none;stroke-width:2.52225065;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="61.548832"
+       x="-34.015312"
+       height="32"
+       width="32"
+       id="rect816"
+       style="opacity:1;fill:none;fill-opacity:0.52608696;fill-rule:nonzero;stroke:none;stroke-width:2.51353598;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  </g>
+  <g
+     transform="translate(95.099151,-3.114078)"
+     id="hover">
+    <circle
+       style="opacity:1;fill:#909090;fill-opacity:0.41739131;fill-rule:nonzero;stroke:none;stroke-width:2.52225065;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle824"
+       cx="-18.015312"
+       cy="77.548828"
+       r="12" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:0.52608696;fill-rule:nonzero;stroke:none;stroke-width:2.51353598;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect826"
+       width="32"
+       height="32"
+       x="-34.015312"
+       y="61.548832" />
+  </g>
+  <g
      id="pressed"
-     style="opacity:1;fill:#1485cc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.72143602;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.00869565" />
-  <rect
-     ry="0"
-     y="60.818813"
-     x="60.300255"
-     height="28"
-     width="28"
-     id="hover"
-     style="opacity:1;fill:#97bad0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.72143602;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.00869565" />
+     transform="translate(47.190259,-51.981148)">
+    <circle
+       r="12"
+       cy="77.548828"
+       cx="-18.015312"
+       id="circle830"
+       style="opacity:1;fill:#909090;fill-opacity:0.77391304;fill-rule:nonzero;stroke:none;stroke-width:2.52225065;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="61.548832"
+       x="-34.015312"
+       height="32"
+       width="32"
+       id="rect832"
+       style="opacity:1;fill:none;fill-opacity:0.52608696;fill-rule:nonzero;stroke:none;stroke-width:2.51353598;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  </g>
 </svg>
