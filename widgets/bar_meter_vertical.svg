@@ -1,8 +1,54 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg2318" xmlns="http://www.w3.org/2000/svg" height="32" xmlns:cc="http://creativecommons.org/ns#" width="132" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
- <defs id="defs2320">
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2318"
+   version="1.0"
+   height="21"
+   width="39"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="bar_meter_horizontal.svg"
+   viewBox="0 0 39 21">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1443"
+     inkscape:window-height="879"
+     inkscape:document-units="px"
+     id="namedview51"
+     showgrid="false"
+     inkscape:zoom="9.5797565"
+     inkscape:cx="6.1721737"
+     inkscape:cy="17.78055"
+     inkscape:current-layer="svg2318"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:showpageshadow="false"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5" />
+  <defs
+     id="defs2320">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
         color:#31363b;
       }
       .ColorScheme-Background{
@@ -32,84 +78,237 @@
       .ColorScheme-ButtonFocus{
         color:#3daee9;
       }</style>
- </defs>
- <metadata id="metadata2323">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer1">
-  <rect id="hint-tile-center" y="4.4389" x="6.2501" height="3.5355" width="3.4471"/>
-  <rect id="hint-bar-size" x="27.486" height="12" width="12" y="6.068"/>
-  <path id="bar-active-center" fill="#12bcfa" d="m98 9h3v3h-3v-3z"/>
-  <g id="bar-active-top" transform="translate(-18)" fill="#12bcfa">
-   <path id="path3205" fill="#12bcfa" d="m119 5h-3v3h3v-3z"/>
+  </defs>
+  <metadata
+     id="metadata2323">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="bar-inactive-center"
+     d="m 27,9 h 3 v 3 h -3 z"
+     inkscape:connector-curvature="0"
+     class="ColorScheme-Highlight"
+     style="fill:currentColor;fill-opacity:1" />
+  <g
+     id="bar-inactive-top"
+     transform="translate(-89)"
+     style="fill:currentColor;fill-opacity:1">
+    <path
+       id="path3399"
+       d="m 119,5 h -3 v 3 h 3 z"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Highlight"
+       style="fill:currentColor;fill-opacity:1" />
   </g>
-  <g id="bar-active-topright" transform="translate(-18)" fill="#12bcfa">
-   <g id="g3209" fill="#12bcfa">
-    <path id="path3213" fill="#12bcfa" d="m123 8c0-1.662-1.338-3-3-3v3h3z"/>
-   </g>
+  <g
+     id="bar-inactive-topright"
+     transform="translate(-89)"
+     style="fill:currentColor;fill-opacity:1">
+    <g
+       id="g3403"
+       style="fill:currentColor;fill-opacity:1">
+      <path
+         id="path3405"
+         d="m 123,8 c 0,-1.662 -1.338,-3 -3,-3 v 3 z"
+         inkscape:connector-curvature="0"
+         class="ColorScheme-Highlight"
+         style="fill:currentColor;fill-opacity:1" />
+    </g>
   </g>
-  <g id="bar-active-bottomright" fill="#12bcfa" transform="matrix(1,0,0,-1,-18,21)">
-   <g id="g3217" fill="#12bcfa">
-    <path id="path3221" fill="#12bcfa" d="m123 8c0-1.662-1.338-3-3-3v3h3z"/>
-   </g>
+  <g
+     id="bar-inactive-bottomright"
+     transform="matrix(1,0,0,-1,-89,21)"
+     style="fill:currentColor;fill-opacity:1">
+    <g
+       id="g3409"
+       style="fill:currentColor;fill-opacity:1">
+      <path
+         id="path3411"
+         d="m 123,8 c 0,-1.662 -1.338,-3 -3,-3 v 3 z"
+         inkscape:connector-curvature="0"
+         class="ColorScheme-Highlight"
+         style="fill:currentColor;fill-opacity:1" />
+    </g>
   </g>
-  <g id="bar-active-bottom" fill="#12bcfa" transform="matrix(1,0,0,-1,-18,21)">
-   <path id="path3227" fill="#12bcfa" d="m119 5h-3v3h3v-3z"/>
+  <g
+     id="bar-inactive-bottom"
+     transform="matrix(1,0,0,-1,-89,21)"
+     style="fill:currentColor;fill-opacity:1">
+    <path
+       id="path3415"
+       d="m 119,5 h -3 v 3 h 3 z"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Highlight"
+       style="fill:currentColor;fill-opacity:1" />
   </g>
-  <g id="bar-active-topleft" fill="#12bcfa" transform="matrix(-1,0,0,1,217,0)">
-   <g id="g3231">
-    <path id="path3235" fill="#12bcfa" d="m123 8c0-1.662-1.338-3-3-3v3h3z"/>
-    <use id="use4179" xlink:href="#path3235" fill="#12bcfa" x="0" y="0"/>
-   </g>
+  <g
+     id="bar-inactive-topleft"
+     transform="matrix(-1,0,0,1,146,0)"
+     style="fill:currentColor;fill-opacity:1">
+    <g
+       id="g3419"
+       style="fill:currentColor;fill-opacity:1">
+      <path
+         id="path3421"
+         d="m 123,8 c 0,-1.662 -1.338,-3 -3,-3 v 3 z"
+         inkscape:connector-curvature="0"
+         class="ColorScheme-Highlight"
+         style="fill:currentColor;fill-opacity:1" />
+    </g>
   </g>
-  <g id="bar-active-bottomleft" transform="matrix(-1,0,0,-1,217,21)" fill="#12bcfa">
-   <g id="g3239" fill="#12bcfa">
-    <path id="path3243" fill="#12bcfa" d="m123 8c0-1.662-1.338-3-3-3v3h3z"/>
-   </g>
+  <g
+     id="bar-inactive-bottomleft"
+     transform="rotate(180,73,10.5)"
+     style="fill:currentColor;fill-opacity:1">
+    <g
+       id="g3425"
+       style="fill:currentColor;fill-opacity:1">
+      <path
+         id="path3427"
+         d="m 123,8 c 0,-1.662 -1.338,-3 -3,-3 v 3 z"
+         inkscape:connector-curvature="0"
+         class="ColorScheme-Highlight"
+         style="fill:currentColor;fill-opacity:1" />
+    </g>
   </g>
-  <g id="bar-active-left" transform="matrix(0,1,1,0,89,-107)" fill="#12bcfa">
-   <path id="path3249" fill="#12bcfa" d="m119 5h-3v3h3v-3z"/>
+  <g
+     id="bar-inactive-left"
+     transform="matrix(0,1,1,0,18,-107)"
+     style="fill:currentColor;fill-opacity:1">
+    <path
+       id="path3431"
+       d="m 119,5 h -3 v 3 h 3 z"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Highlight"
+       style="fill:currentColor;fill-opacity:1" />
   </g>
-  <g id="bar-active-right" fill="#12bcfa" transform="matrix(0,1,-1,0,110,-107)">
-   <path id="path3255" fill="#12bcfa" d="m119 5h-3v3h3v-3z"/>
+  <g
+     id="bar-inactive-right"
+     transform="rotate(90,73,-34)"
+     style="fill:currentColor;fill-opacity:1">
+    <path
+       id="path3435"
+       d="m 119,5 h -3 v 3 h 3 z"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Highlight"
+       style="fill:currentColor;fill-opacity:1" />
   </g>
-  <path id="bar-inactive-center" fill-opacity=".17255" d="m98 23h3v3h-3v-3z"/>
-  <g id="bar-inactive-top" fill-opacity=".17255" transform="translate(-18,14)">
-   <path id="path3399" fill-opacity=".17255" d="m119 5h-3v3h3v-3z"/>
+  <path
+     style="fill:currentColor;fill-opacity:1"
+      class="ColorScheme-Text"
+     inkscape:connector-curvature="0"
+     d="m 9,9 h 3 v 3 H 9 Z"
+     id="bar-active-center" />
+  <g
+     style="fill:currentColor;fill-opacity:1"
+     transform="translate(-107)"
+     id="bar-active-top">
+    <path
+       style="color:#31363b;fill:currentColor;fill-opacity:1"
+       class="ColorScheme-Text"
+       inkscape:connector-curvature="0"
+       d="m 119,5 h -3 v 3 h 3 z"
+       id="path837" />
   </g>
-  <g id="bar-inactive-topright" fill-opacity=".17255" transform="translate(-18,14)">
-   <g id="g3403" fill-opacity=".17255">
-    <path id="path3405" fill-opacity=".17255" d="m123 8c0-1.662-1.338-3-3-3v3h3z"/>
-   </g>
+  <g
+     style="fill:currentColor;fill-opacity:1"
+     transform="translate(-107)"
+     id="bar-active-topright">
+    <g
+       style="fill:currentColor;fill-opacity:1"
+       id="g843">
+      <path
+         style="color:#31363b;fill:currentColor;fill-opacity:1"
+         class="ColorScheme-Text"
+         inkscape:connector-curvature="0"
+         d="m 123,8 c 0,-1.662 -1.338,-3 -3,-3 v 3 z"
+         id="path841" />
+    </g>
   </g>
-  <g id="bar-inactive-bottomright" transform="matrix(1,0,0,-1,-18,35)" fill-opacity=".17255">
-   <g id="g3409" fill-opacity=".17255">
-    <path id="path3411" fill-opacity=".17255" d="m123 8c0-1.662-1.338-3-3-3v3h3z"/>
-   </g>
+  <g
+     style="fill:currentColor;fill-opacity:1"
+     transform="matrix(1,0,0,-1,-107,21)"
+     id="bar-active-bottomright">
+    <g
+       style="fill:currentColor;fill-opacity:1"
+       id="g849">
+      <path
+         style="color:#31363b;fill:currentColor;fill-opacity:1"
+         class="ColorScheme-Text"
+         inkscape:connector-curvature="0"
+         d="m 123,8 c 0,-1.662 -1.338,-3 -3,-3 v 3 z"
+         id="path847" />
+    </g>
   </g>
-  <g id="bar-inactive-bottom" transform="matrix(1,0,0,-1,-18,35)" fill-opacity=".17255">
-   <path id="path3415" fill-opacity=".17255" d="m119 5h-3v3h3v-3z"/>
+  <g
+     style="fill:currentColor;fill-opacity:1"
+     transform="matrix(1,0,0,-1,-107,21)"
+     id="bar-active-bottom">
+    <path
+       style="color:#31363b;fill:currentColor;fill-opacity:1"
+       class="ColorScheme-Text"
+       inkscape:connector-curvature="0"
+       d="m 119,5 h -3 v 3 h 3 z"
+       id="path853" />
   </g>
-  <g id="bar-inactive-topleft" transform="matrix(-1,0,0,1,217,14)" fill-opacity=".17255">
-   <g id="g3419" fill-opacity=".17255">
-    <path id="path3421" fill-opacity=".17255" d="m123 8c0-1.662-1.338-3-3-3v3h3z"/>
-   </g>
+  <g
+     style="fill:currentColor;fill-opacity:1"
+     transform="matrix(-1,0,0,1,128,0)"
+     id="bar-active-topleft">
+    <g
+       style="fill:currentColor;fill-opacity:1"
+       id="g859">
+      <path
+         style="color:#31363b;fill:currentColor;fill-opacity:1"
+         class="ColorScheme-Text"
+         inkscape:connector-curvature="0"
+         d="m 123,8 c 0,-1.662 -1.338,-3 -3,-3 v 3 z"
+         id="path857" />
+    </g>
   </g>
-  <g id="bar-inactive-bottomleft" fill-opacity=".17255" transform="matrix(-1,0,0,-1,217,35)">
-   <g id="g3425" fill-opacity=".17255">
-    <path id="path3427" fill-opacity=".17255" d="m123 8c0-1.662-1.338-3-3-3v3h3z"/>
-   </g>
+  <g
+     style="fill:currentColor;fill-opacity:1"
+     transform="rotate(180,64,10.5)"
+     id="bar-active-bottomleft">
+    <g
+       style="fill:currentColor;fill-opacity:1"
+       id="g865">
+      <path
+         style="color:#31363b;fill:currentColor;fill-opacity:1"
+         class="ColorScheme-Text"
+         inkscape:connector-curvature="0"
+         d="m 123,8 c 0,-1.662 -1.338,-3 -3,-3 v 3 z"
+         id="path863" />
+    </g>
   </g>
-  <g id="bar-inactive-left" fill-opacity=".17255" transform="matrix(0,1,1,0,89,-93)">
-   <path id="path3431" fill-opacity=".17255" d="m119 5h-3v3h3v-3z"/>
+  <g
+     style="fill:currentColor;fill-opacity:1"
+     transform="matrix(0,1,1,0,0,-107)"
+     id="bar-active-left">
+    <path
+       style="color:#31363b;fill:currentColor;fill-opacity:1"
+       class="ColorScheme-Text"
+       inkscape:connector-curvature="0"
+       d="m 119,5 h -3 v 3 h 3 z"
+       id="path869" />
   </g>
-  <g id="bar-inactive-right" transform="matrix(0,1,-1,0,110,-93)" fill-opacity=".17255">
-   <path id="path3435" fill-opacity=".17255" d="m119 5h-3v3h3v-3z"/>
+  <g
+     style="fill:currentColor;fill-opacity:1"
+     transform="rotate(90,64,-43)"
+     id="bar-active-right">
+    <path
+       style="color:#31363b;fill:currentColor;fill-opacity:1"
+       class="ColorScheme-Text"
+       inkscape:connector-curvature="0"
+       d="m 119,5 h -3 v 3 h 3 z"
+       id="path873" />
   </g>
- </g>
 </svg>
