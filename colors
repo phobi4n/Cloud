@@ -6,8 +6,8 @@ DecorationHover=11,166,167
 ForegroundActive=255,0,0
 ForegroundInactive=156,181,182
 ForegroundLink=0,0,255
-ForegroundNegative=226,44,44
-ForegroundNeutral=216,11,12
+ForegroundNegative=226,44,244
+ForegroundNeutral=216,11,212
 ForegroundNormal=14,14,14
 ForegroundPositive=151,166,167
 ForegroundVisited=88,55,150
@@ -42,14 +42,14 @@ ForegroundVisited=88,55,150
 
 [Colors:View]
 BackgroundAlternate=200,200,20
-BackgroundNormal=55,55,255
+BackgroundNormal=55,55,55
 DecorationFocus=151,166,167
 DecorationHover=72,177,60
 ForegroundActive=172,186,187
 ForegroundInactive=156,181,182
 ForegroundLink=172,186,187
 ForegroundNegative=56,181,182
-ForegroundNeutral=156,1,1
+ForegroundNeutral=156,1,111
 ForegroundNormal=14,14,14
 ForegroundPositive=51,166,167
 ForegroundVisited=97,147,207
@@ -70,15 +70,15 @@ ForegroundVisited=97,147,207
 
 [Colors:Complementary]
 BackgroundAlternate=32,32,32
-BackgroundNormal=140,0,0
-DecorationFocus=11,166,167
+BackgroundNormal=44,44,44
+DecorationFocus=211,16,17
 DecorationHover=135,211,192
-ForegroundActive=2,200,200
-ForegroundInactive=254,181,182
+ForegroundActive=2,20,200
+ForegroundInactive=54,181,182
 ForegroundLink=172,186,187
 ForegroundNegative=242,42,242
 ForegroundNeutral=16,181,182
-ForegroundNormal=255,255,255
+ForegroundNormal=242,242,242
 ForegroundPositive=151,166,167
 ForegroundVisited=97,147,207
 
