@@ -20,12 +20,12 @@
    id="svg7080">
   <sodipodi:namedview
      inkscape:window-maximized="0"
-     inkscape:window-y="179"
-     inkscape:window-x="260"
+     inkscape:window-y="171"
+     inkscape:window-x="182"
      inkscape:pagecheckerboard="true"
      inkscape:current-layer="svg7080"
      inkscape:cy="18.711971"
-     inkscape:cx="-2.7423394"
+     inkscape:cx="19.765157"
      inkscape:zoom="11.379005"
      showgrid="false"
      id="namedview28"
@@ -146,7 +146,7 @@
        id="fill"
        osb:paint="solid">
       <stop
-         style="stop-color:#888888;stop-opacity:0.3764706;"
+         style="stop-color:#8a8a8a;stop-opacity:0.1254902;"
          offset="0"
          id="stop912" />
     </linearGradient>
