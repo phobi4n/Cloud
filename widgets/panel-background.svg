@@ -32,13 +32,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1551"
-     inkscape:window-height="898"
+     inkscape:window-width="1601"
+     inkscape:window-height="970"
      id="namedview36"
      showgrid="false"
-     inkscape:zoom="14.981913"
-     inkscape:cx="70.09325"
-     inkscape:cy="32.547458"
+     inkscape:zoom="29.963826"
+     inkscape:cx="43.171894"
+     inkscape:cy="29.611789"
      inkscape:current-layer="svg3642"
      fit-margin-top="5"
      fit-margin-left="5"
@@ -46,6 +46,18 @@
      fit-margin-bottom="5" />
   <defs
      id="defs3644">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1724">
+      <stop
+         style="stop-color:#f6f6f6;stop-opacity:1"
+         offset="0"
+         id="stop1720" />
+      <stop
+         style="stop-color:#ebebeb;stop-opacity:1"
+         offset="1"
+         id="stop1722" />
+    </linearGradient>
     <linearGradient
        id="linearGradient1227"
        inkscape:collect="always">
@@ -218,7 +230,7 @@
        id="border"
        osb:paint="solid">
       <stop
-         style="stop-color:#ffffff;stop-opacity:0.75294119;"
+         style="stop-color:#ffffff;stop-opacity:1;"
          offset="0"
          id="stop955" />
     </linearGradient>
@@ -276,7 +288,7 @@
       <stop
          id="stop844"
          offset="0"
-         style="stop-color:#f8f8f8;stop-opacity:0.75294119;" />
+         style="stop-color:#f8f8f8;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        osb:paint="solid"
@@ -302,16 +314,6 @@
          stop-color="#ccc"
          id="stop4738" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#North_Panel"
-       id="linearGradient1364"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.33333334,0,0,0.33333334,48.658486,20.191009)"
-       x1="3.5"
-       y1="36"
-       x2="51.5"
-       y2="36" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#North_Panel"
@@ -712,6 +714,15 @@
        y1="32.575371"
        x2="98.310097"
        y2="23.676954" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1724"
+       id="linearGradient1726"
+       x1="49.825153"
+       y1="24.191008"
+       x2="49.825153"
+       y2="40.19101"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata3647">
@@ -743,7 +754,7 @@
      x="49.825153"
      y="24.191008"
      width="16"
-     style="fill:url(#linearGradient1364);fill-opacity:1;stroke-width:0.31999999" />
+     style="fill:url(#linearGradient1726);fill-opacity:1;stroke-width:0.31999999" />
   <g
      transform="rotate(-90,64.917795,25.462086)"
      id="left">
