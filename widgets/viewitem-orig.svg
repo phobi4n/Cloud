@@ -19,18 +19,18 @@
    version="1.0"
    id="svg7080">
   <sodipodi:namedview
-     inkscape:window-maximized="0"
-     inkscape:window-y="221"
-     inkscape:window-x="279"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
      inkscape:pagecheckerboard="true"
      inkscape:current-layer="svg7080"
-     inkscape:cy="24.75334"
-     inkscape:cx="33.702069"
-     inkscape:zoom="5.2036793"
+     inkscape:cy="30.317921"
+     inkscape:cx="54.608053"
+     inkscape:zoom="12.859612"
      showgrid="false"
      id="namedview28"
-     inkscape:window-height="804"
-     inkscape:window-width="1426"
+     inkscape:window-height="1135"
+     inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
@@ -46,14 +46,6 @@
      inkscape:showpageshadow="false" />
   <defs
      id="defs7082">
-    <linearGradient
-       id="linearGradient1522"
-       osb:paint="solid">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop1520" />
-    </linearGradient>
     <linearGradient
        id="linearGradient1880"
        osb:paint="solid">
@@ -74,7 +66,7 @@
        id="fill"
        osb:paint="solid">
       <stop
-         style="stop-color:#000000;stop-opacity:0.01568628;"
+         style="stop-color:#e74856;stop-opacity:1;"
          offset="0"
          id="stop1809" />
     </linearGradient>
@@ -173,6 +165,24 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#fill"
+       id="linearGradient1835"
+       gradientUnits="userSpaceOnUse"
+       x1="9.5383635"
+       y1="146.92113"
+       x2="57.538363"
+       y2="146.92113" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Inner"
+       id="linearGradient1837"
+       gradientUnits="userSpaceOnUse"
+       x1="9.5383654"
+       y1="148.42113"
+       x2="57.538365"
+       y2="148.42113" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#fill"
        id="linearGradient1847"
        gradientUnits="userSpaceOnUse"
        x1="9.5383635"
@@ -208,6 +218,15 @@
        y1="85.204025"
        x2="67.23101"
        y2="85.204025" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#fill"
+       id="linearGradient1882"
+       x1="9"
+       y1="111"
+       x2="57"
+       y2="111"
+       gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#Inner"
@@ -268,33 +287,6 @@
        y1="85.204025"
        x2="67.23101"
        y2="85.204025" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#fill"
-       id="linearGradient1508"
-       gradientUnits="userSpaceOnUse"
-       x1="9.5383635"
-       y1="146.92113"
-       x2="57.538363"
-       y2="146.92113" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#Inner"
-       id="linearGradient1510"
-       gradientUnits="userSpaceOnUse"
-       x1="9.5383654"
-       y1="148.42113"
-       x2="57.538365"
-       y2="148.42113" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#fill"
-       id="linearGradient1524"
-       x1="9"
-       y1="111"
-       x2="57"
-       y2="111"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata7085">
@@ -304,7 +296,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -684,7 +676,7 @@
        id="path1318" />
   </g>
   <rect
-     style="fill:url(#linearGradient1524);fill-opacity:1.0;fill-rule:evenodd;stroke-width:4"
+     style="fill:url(#linearGradient1882);fill-opacity:1.0;fill-rule:evenodd;stroke-width:4"
      height="48"
      width="48"
      x="9"
@@ -739,6 +731,31 @@
        x="9.5383654"
        y="147.92113"
        id="rect1819" />
+  </g>
+  <g
+     id="hover-right"
+     transform="matrix(0,1,1,0,-88.921126,77.461639)">
+    <rect
+       id="rect1827"
+       y="145.92113"
+       x="9.5383635"
+       width="48"
+       height="2"
+       style="fill:url(#linearGradient1835);fill-opacity:1;fill-rule:evenodd;stroke-width:0.81649655" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.57735026"
+       height="1"
+       width="48"
+       x="9.5383654"
+       y="148.92113"
+       id="rect1829" />
+    <rect
+       id="rect1831"
+       y="147.92113"
+       x="9.5383654"
+       width="48"
+       height="1"
+       style="fill:url(#linearGradient1837);fill-opacity:1;fill-rule:evenodd;stroke-width:0.57735026" />
   </g>
   <g
      transform="rotate(90,38.729744,116.19138)"
@@ -848,30 +865,5 @@
        x="58.597656"
        y="83.185547"
        id="rect1912" />
-  </g>
-  <g
-     id="hover-right"
-     transform="matrix(0,1,1,0,-88.921126,77.461639)">
-    <rect
-       id="rect1500"
-       y="145.92113"
-       x="9.5383635"
-       width="48"
-       height="2"
-       style="fill:url(#linearGradient1508);fill-opacity:1;fill-rule:evenodd;stroke-width:0.81649655" />
-    <rect
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.57735026"
-       height="1"
-       width="48"
-       x="9.5383654"
-       y="148.92113"
-       id="rect1502" />
-    <rect
-       id="rect1504"
-       y="147.92113"
-       x="9.5383654"
-       width="48"
-       height="1"
-       style="fill:url(#linearGradient1510);fill-opacity:1;fill-rule:evenodd;stroke-width:0.57735026" />
   </g>
 </svg>
