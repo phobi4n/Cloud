@@ -15,13 +15,13 @@
    height="62.293835"
    width="145.09969"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="panel-background.svg">
+   sodipodi:docname="background.svg">
   <sodipodi:namedview
      inkscape:showpageshadow="false"
      inkscape:pagecheckerboard="true"
      inkscape:window-maximized="0"
-     inkscape:window-y="133"
-     inkscape:window-x="165"
+     inkscape:window-y="91"
+     inkscape:window-x="90"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
@@ -34,9 +34,9 @@
      inkscape:window-height="970"
      id="namedview36"
      showgrid="false"
-     inkscape:zoom="5.9062503"
-     inkscape:cx="90.398048"
-     inkscape:cy="15.672952"
+     inkscape:zoom="8.6748051"
+     inkscape:cx="60.043899"
+     inkscape:cy="15.276528"
      inkscape:current-layer="svg3642"
      fit-margin-top="5"
      fit-margin-left="5"
@@ -221,4 +221,32 @@
        id="rect1016"
        style="opacity:1;fill:#565656;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
+  <rect
+     style="opacity:1;fill:#18355c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="hint-left-margin"
+     width="6"
+     height="2"
+     x="18.790047"
+     y="44.731529" />
+  <rect
+     y="43.232937"
+     x="102.36541"
+     height="2"
+     width="6"
+     id="hint-right-margin"
+     style="opacity:1;fill:#18355c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <rect
+     style="opacity:1;fill:#18355c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="hint-top-margin"
+     width="2"
+     height="6"
+     x="50.952152"
+     y="0.96118355" />
+  <rect
+     y="78.657455"
+     x="69.972755"
+     height="6"
+     width="2"
+     id="hint-bottom-margin"
+     style="opacity:1;fill:#18355c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
 </svg>
